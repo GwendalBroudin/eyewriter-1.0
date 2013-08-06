@@ -29,8 +29,8 @@ Usage
 The videos [here](http://eyewriter.org/developer/) explain how to use the 
 software.
 
-Note that mouse support is currently disabled (commented out) and that the 
-"mouse simulation" button in "calibration" mode is dead (not yet implemented).
+Note that mouse support can be switch on/off using the 'm' keyboard key and that 
+the "mouse simulation" button in "calibration" mode is dead (not yet implemented).
 
 Also note that some settings (most notably whether the software will read its 
 input from a video file or from a camera) can only be changed manually in the 
